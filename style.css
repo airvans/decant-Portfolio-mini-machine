@@ -1,0 +1,11 @@
+:root {
+    --blue: #1e90ff;
+    --white: #ffffff;
+    --text-font:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    --text-next:__inter_20b187, __inter_Fallback_20b187, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  }
+
+  body{
+    font-family:var(--text-next);
+    
+  }

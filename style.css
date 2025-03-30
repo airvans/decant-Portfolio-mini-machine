@@ -24,7 +24,7 @@
   .section-one{
     background-color: whitesmoke;
     width:min(500px,100%);
-    position: fixed; 
+    position:relative; 
     padding-top:6rem;
     padding-bottom:.75rem;
     padding-left: 4rem;
